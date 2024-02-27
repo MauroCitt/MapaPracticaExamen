@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "691592365867",
+    "firebase_url": "https://mapaexamenpractica-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mapaexamenpractica",
+    "storage_bucket": "mapaexamenpractica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691592365867:android:a0446f14438c9f17ef276e",
+        "android_client_info": {
+          "package_name": "com.example.mapapracticaexamen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEwu8uFChl7ZCJb3sz_k0Q_ujVL21ZKU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

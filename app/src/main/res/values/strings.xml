@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapaPracticaExamen</string>
+    <string name="channel_name">canalNoti</string>
+    <string name="channel_description">canal de notis</string>
+</resources>
